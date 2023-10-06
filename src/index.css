@@ -411,8 +411,8 @@ font-size: 18px;
 }
 }
 body{
-  background-image: url(flower-left.png),
-    url(flower-right.png);
+  background-image: url(Flower-Left.png),
+    url(Flower-Right.png);
   background-position:
     top left,
     top right;
